@@ -1,0 +1,4 @@
+cron:
+- description: run sign and verify periodically
+  url: /cron
+  schedule: every 2 minutes
